@@ -1,6 +1,7 @@
 # Appium2
 Mobile testing using Appium _ Assignment -Login Scenario
-#Switch to master branch to pull view code
+
+#Switch to master branch to pull/view code
 
 1.App directory- /Apps 
 2.Test script located- src/test/java
