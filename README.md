@@ -16,5 +16,6 @@ To Run the test
 Prerequisites
 
 1.Appium server should be running as default address
+
 2.Emulator/virtual device should be started.
 
